@@ -15,7 +15,7 @@ body {
 /* Header Section */
 header {
     height: 100vh;
-    background: linear-gradient(#00000080, #00000080), url(Image2.jpg) no-repeat center center/cover;
+    background: linear-gradient(#00000080, #00000080), url(Sunset1.jpg) no-repeat center center/cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
